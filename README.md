@@ -1,3 +1,3 @@
-# Ria Rathod
+# GIS Portfolio
 ### Education
 VCU, B.S. in Environmental Studies
