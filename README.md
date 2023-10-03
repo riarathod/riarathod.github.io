@@ -2,7 +2,7 @@
 ### Education
 VCU, B.S. in Environmental Studies
 
-assets/Age Chloropleth Map.png 
+assets/img/Age Chloropleth Map.png 
 
 
 
